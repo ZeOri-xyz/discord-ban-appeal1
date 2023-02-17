@@ -1,12 +1,15 @@
 [
   {
-    "question": "Why were you banned?",
+    "question": "מדוע אתה רוצה להצטרף לצוות השרת?",
     "character_limit": 1024
   }, {
-    "question": "Why do you feel you should be unbanned?",
+    "question": "בדיקה אחת",
     "character_limit": 1024
   }, {
-    "question": "What will you do to avoid being banned in the future?",
+    "question": "בדיקה 2",
+    "character_limit": 1024
+  }, {
+    "question": "בדיקה 3",
     "character_limit": 1024
   }
 ]
